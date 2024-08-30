@@ -66,3 +66,9 @@ collections:
           - { label: Name, name: name, widget: string }
           - { label: Author, name: author, widget: string }
           - { label: URL, name: url, widget: string }
+      - label: "Homepage Settings"
+        name: "homepage"
+        file: "src/_data/homepage.yaml"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: markdown }
