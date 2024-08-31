@@ -1,9 +1,9 @@
-<div class="{{ 'lg:fixed' if path == 'home' }} w-full">
+<div class="{{ 'lg:fixed top-0' if path == 'home' }} w-full bg-white">
     <nav class="flex items-center justify-center lg:justify-between flex-wrap p-6 lg:px-0 container mx-auto" x-data="{ isOpen: false }" @keydown.escape="isOpen = false"  @click.away="isOpen = false">
         <!--Logo etc-->
         <div class="flex items-center">
             <a href="/" class="text-indigo-500 font-bold text-lg">
-		    <img src="/static/img/icon-96x96.png" alt="Logo" />
+		    <img class="h-14" src="/static/img/icon-96x96.png" alt="Logo" />
 	    </a>
         </div>
 
