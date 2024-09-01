@@ -1,7 +1,7 @@
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
+  - text: Tournaments
+    url: /2024-2025-tournaments
+      #- text: Menu Two
+      #  url: "#"
   - text: Blog
     url: /blog

@@ -7,6 +7,7 @@ tags:
   - left
   - center
   - right
+  - tournaments
 ---
 ## October 12th, 2024
 
