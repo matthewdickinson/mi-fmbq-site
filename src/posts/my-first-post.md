@@ -1,60 +1,60 @@
 ---
-title: This is my first post
-description: Capitalize on low hanging fruit to identify a ballpark value added
-  activity to beta test. Override the digital divide with additional
-  clickthroughs from DevOps.
-author: Surjith S M
-date: 2020-09-01
+title: 2024-2025 Tournaments
+description: The list of tournaments for the 2024-2025 Michigan FMBQ Season
+author: Matthew D
+date: 2024-09-01T02:28:58.349Z
 tags:
   - left
   - center
   - right
 ---
-# This is a Heading h1
+## October 12th, 2024
 
-## This is a Heading h2
+Ogemaw Hills Free Methodist Church
 
-###### This is a Heading h6
+3480 W, M-76, West Branch, MI 48661
 
-## Emphasis
 
-*This text will be italic*\
-*This will also be italic*
+## November 9th, 2024
 
-**This text will be bold**\
-**This will also be bold**
+Westland Free Methodist
 
-*You **can** combine them*
+33445 Warren Rd Westland, MI 48185
 
-## Lists
 
-### Unordered
 
-* Item 1
-* Item 2
+## December 14th, 2024
 
-  * Item 2a
-  * Item 2b
+Hillsdale Free Methodist Church
 
-### Ordered
+150 Union St, Hillsdale, MI 49242
 
-1. Item 1
-2. Item 2
-3. Item 3
 
-   1. Item 3a
-   2. Item 3b
 
-## Links
+## January 11th, 2025
 
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+Lapeer Free Methodist Church
 
-## Blockquotes
+1621 N Saginaw St, Lapeer, MI 48446
 
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
-> > Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-## Inline code
 
-This web site is using `markedjs/marked`.
+## February 8th, 2025
+
+Waypoint Church
+
+8400 Dixie Highway Clarkston, MI 48348
+
+
+
+## March 8th, 2025
+
+TBD	
+
+
+
+## March 12th, 2025
+
+The Arbor Free Methodist Church
+
+120 E Main St, Spring Arbor, MI 49283
