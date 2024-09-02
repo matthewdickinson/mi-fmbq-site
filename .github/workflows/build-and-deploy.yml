@@ -45,3 +45,5 @@ jobs:
           password: "${{ secrets.CD_FTP_PASSWORD }}"
           server-dir: matt-test/
           local-dir: "_site/"
+          protocol: ftps
+          security: loose
