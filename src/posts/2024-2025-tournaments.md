@@ -1,5 +1,5 @@
 ---
-title: 2024-2025 Tournaments
+title: 2024 - 2025 Tournaments
 description: The list of tournaments for the 2024-2025 Michigan FMBQ Season
 author: Matthew D
 date: 2024-09-01T02:28:58.349Z
@@ -7,7 +7,7 @@ tags:
   - left
   - center
   - right
-  - tournaments
+  - Tournament
 ---
 ## October 12th, 2024
 
