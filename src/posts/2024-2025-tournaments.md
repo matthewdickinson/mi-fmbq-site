@@ -59,3 +59,13 @@ TBD
 The Arbor Free Methodist Church
 
 120 E Main St, Spring Arbor, MI 49283
+
+
+## May 10th, 2025 (Regional Quiz)
+West Morris Church
+
+2302 W Morris St, Indianapolis, IN 46221
+
+
+## June 29-July 3, 2025 (Nationals)
+Seattle, WA
