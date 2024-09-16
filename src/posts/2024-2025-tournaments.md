@@ -54,7 +54,7 @@ TBD
 
 
 
-## March 12th, 2025
+## April 12th, 2025
 
 The Arbor Free Methodist Church
 
