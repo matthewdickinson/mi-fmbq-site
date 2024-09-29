@@ -77,7 +77,7 @@ TBD
 
 
 
-## March 12th, 2025
+## April 12th, 2025
 ### 9:00 AM - 3:00 PM
 
 #### Material
@@ -86,3 +86,13 @@ This quiz will cover all of the material from Romans 1 - 16 and James 1 - 5 (wit
 #### Location
 The Arbor Free Methodist Church<br>
 120 E Main St, Spring Arbor, MI 49283
+
+
+## May 10th, 2025 (Regional Quiz)
+West Morris Church
+
+2302 W Morris St, Indianapolis, IN 46221
+
+
+## June 29-July 3, 2025 (Nationals)
+Seattle, WA
