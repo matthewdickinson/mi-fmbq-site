@@ -25,7 +25,7 @@ $15,000/year (guaranteed minimum)
 $2,000/year for top-50% ranking
 
 ## [Greenville University](https://greenville.edu)
-**FULL TUITION** for top two STV Individuals
+At the 2024 Nationals, Greenville offered **FULL TUITION** for top two STV Individuals. TBD if this will be renewed in 2025.
 $20,000/year for qualified participation, plus
 $3,000/year for Top Three Indy or Team
 
