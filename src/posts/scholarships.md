@@ -14,6 +14,8 @@ tags:
 
 We have a number of colleges that offer scholarships for quizzers that fully participate in a season. ("Full participation" is participating in 5 of the 8 conference quizzes and attending Nationals.)
 
+These number are from the 2023 - 2024 quiz season. Renewals, new partners, etc. are currently being worked through for the 2024 - 2025 season.
+
 ## [Corban University](https://www.corban.edu/)
 $2,000/year
 
