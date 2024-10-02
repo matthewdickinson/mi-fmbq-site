@@ -19,6 +19,8 @@ This quiz will cover the material from Romans 1 - 3.
 Ogemaw Hills Free Methodist Church<br>
 3480 W, M-76, West Branch, MI 48661
 
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=185">Please registr online here!</a>
 
 ## November 9th, 2024
 ### 9:00 AM - 3:00 PM
