@@ -19,8 +19,9 @@ This quiz will cover the material from Romans 1 - 3.
 Ogemaw Hills Free Methodist Church<br>
 3480 W, M-76, West Branch, MI 48661
 
-#### Registration
-<a href="https://registrations.fmquizzing.net/register.php?id=185">Please register online here!</a>
+#### Results
+<a href="https://fmbq.app/tournaments/1ashw">View completed scoresheets</a>
+
 
 ## November 9th, 2024
 ### 9:00 AM - 3:00 PM
@@ -31,6 +32,9 @@ This quiz will cover the material from Romans 1 - 6 (with a focus on chapters 4 
 #### Location
 Westland Free Methodist<br>
 33445 Warren Rd Westland, MI 48185
+
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=188">Please register online here!</a>
 
 
 
