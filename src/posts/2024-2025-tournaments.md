@@ -33,8 +33,8 @@ This quiz will cover the material from Romans 1 - 6 (with a focus on chapters 4 
 Westland Free Methodist<br>
 33445 Warren Rd Westland, MI 48185
 
-#### Registration
-<a href="https://registrations.fmquizzing.net/register.php?id=188">Please register online here!</a>
+#### Results
+<a href="https://fmbq.app/tournaments/ksmr5">View completed scoresheets</a>
 
 
 
@@ -48,6 +48,8 @@ This quiz will cover the material from Romans 1 - 9 (with a focus on chapters 7 
 Hillsdale Free Methodist Church<br>
 150 Union St, Hillsdale, MI 49242
 
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=189">Please register online here!</a>
 
 
 ## January 11th, 2025
@@ -79,7 +81,8 @@ Waypoint Church<br>
 This quiz will cover the material from Romans 1 - 16 and James 1 - 2 (with a focus on Romans 16 and James 1 - 2).
 
 #### Location
-TBD	
+Caring Community Church<br>
+1015 Irwin Avenue, Albion, MI 49224
 
 
 
