@@ -9,7 +9,7 @@ tags:
 ---
 ## Why quiz?
 
-While this video is from the quizzing program of another denomination (the Missionary Church), I do think it give a pretty good sense of the history and the goals of Free Methodist Bible Quizzing.
+Bible Quizzing is a valuable ministry of the modern church -- helping it fulfill the Church's mission to its youth. The ministry can aid youth in a variety of ways!
 
 
 **Getting to know Jesus:**
@@ -22,7 +22,7 @@ While this video is from the quizzing program of another denomination (the Missi
 - Even when people turn away from the church, they will still have these words hidden away -- words that the Holy Spirit can and does use to prompt them
 
 Learn to serve:
-- Over the years, national FMBQ has hosted a number of foreign missions trips for quizzers. This gives quizzers an opportunity to serve and to meet those outside their culture.
+- Over the years, national FMBQ has hosted a number of foreign missions trips for quizzers. This gives quizzers an opportunity to serve and to meet those outside their culture
 - The Waypoint quizmeet always includes a service opportunity as part of the day
 
 Gain academic benefit:
@@ -30,11 +30,12 @@ Gain academic benefit:
 - Encourages getting to know your own learning style
 - Helps improve language skills
   - Quizzing has involved people who have English as a second language and gives them an opportunity to really perfect those skills
+- Quizzing encourages the valuable skill of memorization. This is an invaluable skill to have in school, college, and future jobs!
 
 Get the advantages of a sport:
 - Encourages learning good sportsmanship in competition
 - Make friends with the other quizzers
-  - Past quizzers can tell you of the life long friends they have made, not just with members of their own church, but with other quizzers from around the country
+  - Past quizzers can tell you of the life-long friends they have made, not just with members of their own church, but with other quizzers from around the country
 
 <div style="font-size: .6em">Partially based on <a href="https://photos.google.com/share/AF1QipOLyrnMYB18OPh0rlLuHaS2SZ3MVMQNUpBibA3bttFMgkCSiJSdBXmWiZ2dUPMdMg/photo/AF1QipNeLu926F2c6nAZ5kyvGk73rBZgb0PWHjce80Uh?key=OE4yc2pIOFh5bTRlVVRhOXFlM2tnZVBlQVRRZk1n">a talk by Missionary Church's Caren Miglin</a></div>
 
