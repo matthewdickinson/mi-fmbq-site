@@ -48,8 +48,8 @@ This quiz will cover the material from Romans 1 - 9 (with a focus on chapters 7 
 Hillsdale Free Methodist Church<br>
 150 Union St, Hillsdale, MI 49242
 
-#### Registration
-<a href="https://registrations.fmquizzing.net/register.php?id=189">Please register online here!</a>
+#### Results
+<a href="https://fmbq.app/tournaments/xy95a">View completed scoresheets</a>
 
 
 ## January 11th, 2025
@@ -62,6 +62,8 @@ This quiz will cover the material from Romans 1 - 12 (with a focus on chapters 1
 Lapeer Free Methodist Church<br>
 1621 N Saginaw St, Lapeer, MI 48446
 
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=195">Please register online here!</a>
 
 
 ## February 8th, 2025
