@@ -62,8 +62,8 @@ This quiz will cover the material from Romans 1 - 12 (with a focus on chapters 1
 Lapeer Free Methodist Church<br>
 1621 N Saginaw St, Lapeer, MI 48446
 
-#### Registration
-<a href="https://registrations.fmquizzing.net/register.php?id=195">Please register online here!</a>
+#### Results
+<a href="https://fmbq.app/tournaments/5hneq">View completed scoresheets</a>
 
 
 ## February 8th, 2025
@@ -76,6 +76,8 @@ Waypoint Church<br>
 8400 Dixie Highway Clarkston, MI 48348
 
 
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=201">Please register online here!</a>
 
 ## March 8th, 2025
 
