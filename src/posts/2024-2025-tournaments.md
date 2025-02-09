@@ -76,8 +76,8 @@ Waypoint Church<br>
 8400 Dixie Highway Clarkston, MI 48348
 
 
-#### Registration
-<a href="https://registrations.fmquizzing.net/register.php?id=201">Please register online here!</a>
+#### Results
+<a href="https://fmbq.app/tournaments/yfihe">View completed scoresheets</a>
 
 ## March 8th, 2025
 
@@ -87,6 +87,9 @@ This quiz will cover the material from Romans 1 - 16 and James 1 - 2 (with a foc
 #### Location
 Caring Community Church<br>
 1015 Irwin Avenue, Albion, MI 49224
+
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=204">Please register online here!</a>
 
 
 
