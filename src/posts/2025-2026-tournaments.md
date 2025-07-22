@@ -15,7 +15,7 @@ tags:
 #### Material
 This quiz will cover the material 
  - **Standard**: Acts 1-4
- - **Casual**: Acts 1
+ - **Casual**: Acts 1:1 - 2:36
 
 ## November 8th, 2025
 ### 9:00 AM - 3:00 PM
@@ -23,7 +23,7 @@ This quiz will cover the material
 #### Material
 This quiz will cover the material 
  - **Standard**: Acts 1 - 7 (with a focus on chapters 5 - 7).
- - **Casual**: Acts 1 - 2 (with a focus on chapter 2).
+ - **Casual**: Acts 1:1 - 4:22 (with a focus on 2:37 - 4:22).
 
 
 ## December 12th, 2025
@@ -32,7 +32,7 @@ This quiz will cover the material
 #### Material
 This quiz will cover the material 
  - **Standard**: Acts 1 - 10 (with a focus on chapters 8 - 10).
- - **Casual**: Acts 1 - 3 (with a focus on chapter 3).
+ - **Casual**: Acts 1:1 - 5:42 (with a focus on 4:23 - 5:42).
 
 
 ## January 10th, 2026
@@ -41,7 +41,7 @@ This quiz will cover the material
 #### Material
 This quiz will cover the material 
  - **Standard**: Acts 1 - 13 (with a focus on chapters 11 - 13).
- - **Casual**: Acts 1 - 4 (with a focus on chapter 4).
+ - **Casual**: Acts 1:1 - 7:43 (with a focus on 6:1 - 7:43).
 
 
 ## February 14th, 2026
@@ -50,14 +50,14 @@ This quiz will cover the material
 #### Material
 This quiz will cover the material 
  - **Standard**: Acts 1 - 14 and Galatians 1 - 3 (with a focus on Acts chapters 14 and Galatians 1 - 3).
- - **Casual**: Acts 1 - 5 (with a focus on chapter 5).
+ - **Casual**: Acts 1:1 - 8:40 (with a focus on 7:44 - 8:40).
 
 ## March 14th, 2026
 
 #### Material
 This quiz will cover the material 
  - **Standard**: Acts 1 - 14, Galatians 1 - 6, and Colossians 1 (with a focus on Galatians 4 - 6 and Colossians 1).
- - **Casual**: Acts 1 - 6 (with a focus on chapter 6).
+ - **Casual**: Acts 1:1 - 10:16 (with a focus on 9:1 - 10:16).
 
 
 
@@ -67,7 +67,7 @@ This quiz will cover the material
 #### Material
 This quiz will cover the material 
  - **Standard**: Acts 1 - 14, Galatians, Colossians, and Philemon (with a focus on Colossians 2 - 4 and Philemon).
- - **Casual**: Acts 1 - 7 (with a focus on chapter 7).
+ - **Casual**: Acts 1:1 - 11:30 (with a focus on 10:17 - 11:30).
 
 ## May 9th, 2026 (Regional Quiz)
 West Morris Church
