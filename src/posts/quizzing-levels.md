@@ -9,7 +9,7 @@ tags:
 ---
 ## New Levels
 
-New to the 2025-2026 season, Michigan is moving from an structure with 3 age-based tiers to a structure with two tiers based on amount of material.
+New to the 2025-2026 season, Michigan is moving from a structure with 3 age-based tiers to a structure with two tiers based on amount of material.
 
 - **Standard** - This level includes the full set of Material (Acts 1-14, Galatians, Colossians, and Philemon), is open to quizzers from 6<sup>th</sup> - 12<sup>th</sup> grade. This is the same material and ages that qualify for participation at Nationals.
 - **Casual** - This is a new level that is targeted at younger quizzers (4<sup>th</sup> - 5<sup>th</sup> grade) and those that are less competitive, unable to dedicate the time to study the large set of material, etc.. All the rules are the same, but the material is approximately one third of Standard (Acts 1-9).

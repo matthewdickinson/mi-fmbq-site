@@ -88,9 +88,8 @@ This quiz will cover the material from Romans 1 - 16 and James 1 - 2 (with a foc
 Caring Community Church<br>
 1015 Irwin Avenue, Albion, MI 49224
 
-#### Registration
-<a href="https://registrations.fmquizzing.net/register.php?id=204">Please register online here!</a>
-
+#### Results
+<a href="https://fmbq.app/tournaments/4jj6o">View completed scoresheets</a>
 
 
 ## April 12th, 2025
@@ -103,6 +102,8 @@ This quiz will cover all of the material from Romans 1 - 16 and James 1 - 5 (wit
 The Arbor Free Methodist Church<br>
 120 E Main St, Spring Arbor, MI 49283
 
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=208">Please register online here!</a>
 
 ## May 10th, 2025 (Regional Quiz)
 West Morris Church
