@@ -26,7 +26,7 @@ This quiz will cover the material
  - **Casual**: Acts 1:1 - 4:22 (with a focus on 2:37 - 4:22).
 
 
-## December 12th, 2025
+## December 13th, 2025
 ### 9:00 AM - 3:00 PM
 
 #### Material
