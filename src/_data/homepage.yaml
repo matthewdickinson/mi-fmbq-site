@@ -33,8 +33,8 @@ body: >-
   * Points are awarded to the first team that correctly answers the question.
 
   * Questions are limited to factual questions; specific theological interpretations are not required. For example, questions could be things like:
-    *  "John baptized with <strong>what</strong>?" ("Water")
-    *  "Two part question: John baptized with <strong>what</strong>, <em>but</em> in a few days, with what will you be baptized?" ("Water; the Holy Spirit.")
+    *  "John baptized with **what**?" ("Water")
+    *  "Two part question: John baptized with **what**, _but_ in a few days, with **what** will you be baptized?" ("Water; the Holy Spirit.")
 
 
   ### When?
