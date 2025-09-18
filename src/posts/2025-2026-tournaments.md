@@ -21,6 +21,9 @@ This quiz will cover the material
 Ogemaw Hills Free Methodist Church<br>
 3480 W, M-76, West Branch, MI 48661
 
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=215">Register here!</a>
+
 ## November 8th, 2025
 ### 9:00 AM - 3:00 PM
 
