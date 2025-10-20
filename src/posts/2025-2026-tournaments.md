@@ -21,8 +21,8 @@ This quiz will cover the material
 Ogemaw Hills Free Methodist Church<br>
 3480 W, M-76, West Branch, MI 48661
 
-#### Registration
-<a href="https://registrations.fmquizzing.net/register.php?id=215">Register here!</a>
+#### Results
+<a href="https://fmbq.app/tournaments/wworc">Scoresheets are available here</a>
 
 ## November 8th, 2025
 ### 9:00 AM - 3:00 PM
@@ -35,6 +35,9 @@ This quiz will cover the material
 #### Location
 Hope Church<br>
 200 N Fremont St, Coldwater, MI 49036
+
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=224">Register here!</a>
 
 ## December 13th, 2025
 ### 9:00 AM - 3:00 PM
