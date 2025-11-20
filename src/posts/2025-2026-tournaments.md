@@ -36,8 +36,8 @@ This quiz will cover the material
 Hope Church<br>
 200 N Fremont St, Coldwater, MI 49036
 
-#### Registration
-<a href="https://registrations.fmquizzing.net/register.php?id=224">Register here!</a>
+#### Results
+<a href="https://fmbq.app/tournaments/844we">Scoresheets are available here</a>
 
 ## December 13th, 2025
 ### 9:00 AM - 3:00 PM
@@ -46,6 +46,9 @@ Hope Church<br>
 This quiz will cover the material 
  - **Standard**: Acts 1 - 10 (with a focus on chapters 8 - 10).
  - **Casual**: Acts 1:1 - 5:42 (with a focus on 4:23 - 5:42).
+
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=228">Register here!</a>
 
 #### Location
 Hillsdale Free Methodist Church<br>
