@@ -47,12 +47,12 @@ This quiz will cover the material
  - **Standard**: Acts 1 - 10 (with a focus on chapters 8 - 10).
  - **Casual**: Acts 1:1 - 5:42 (with a focus on 4:23 - 5:42).
 
-#### Registration
-<a href="https://registrations.fmquizzing.net/register.php?id=228">Register here!</a>
-
 #### Location
 Hillsdale Free Methodist Church<br>
 150 Union St, Hillsdale, MI 49242
+
+#### Results
+<a href="https://fmbq.app/tournaments/o580x">Scoresheets are available here</a>
 
 ## January 10th, 2026
 ### 9:00 AM - 3:00 PM
@@ -65,6 +65,9 @@ This quiz will cover the material
 #### Location
 Lapeer Free Methodist Church<br>
 1621 N Saginaw St, Lapeer, MI 48446
+
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=233">Register here!</a>
 
 ## February 14th, 2026
 ### 9:00 AM - 3:00 PM
