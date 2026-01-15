@@ -66,8 +66,8 @@ This quiz will cover the material
 Lapeer Free Methodist Church<br>
 1621 N Saginaw St, Lapeer, MI 48446
 
-#### Registration
-<a href="https://registrations.fmquizzing.net/register.php?id=233">Register here!</a>
+#### Results
+Unfortunately, this quiz was cancelled, so there are no results.
 
 ## February 14th, 2026
 ### 9:00 AM - 3:00 PM
@@ -81,6 +81,9 @@ This quiz will cover the material
 #### Location
 Waypoint Church<br>
 8400 Dixie Highway Clarkston, MI 48348
+
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=238">Register here!</a>
 
 ## March 14th, 2026
 
