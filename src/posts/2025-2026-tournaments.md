@@ -82,8 +82,8 @@ This quiz will cover the material
 Waypoint Church<br>
 8400 Dixie Highway Clarkston, MI 48348
 
-#### Registration
-<a href="https://registrations.fmquizzing.net/register.php?id=238">Register here!</a>
+#### Results
+<a href="https://fmbq.app/tournaments/r9tyr">Scoresheets are available here</a>
 
 ## March 14th, 2026
 
@@ -96,6 +96,10 @@ This quiz will cover the material
 #### Location
 New Covenant Church<br>
 13176 N Linden Rd, Clio, MI 48420
+
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=245">Register here!</a>
+
 
 ## April 11th, 2026
 ### 9:00 AM - 3:00 PM
