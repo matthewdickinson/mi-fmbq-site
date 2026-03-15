@@ -97,8 +97,8 @@ This quiz will cover the material
 New Covenant Church<br>
 13176 N Linden Rd, Clio, MI 48420
 
-#### Registration
-<a href="https://registrations.fmquizzing.net/register.php?id=245">Register here!</a>
+#### Results
+<a href="https://fmbq.app/tournaments/0r58x">Scoresheets are available here</a>
 
 
 ## April 11th, 2026
@@ -112,6 +112,9 @@ This quiz will cover the material
 #### Location
 The Arbor Free Methodist Church<br>
 120 E Main St, Spring Arbor, MI 49283
+
+#### Registration
+<a href="https://registrations.fmquizzing.net/register.php?id=248">Register here!</a>
 
 ## May 9th, 2026 
 
