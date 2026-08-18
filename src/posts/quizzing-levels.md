@@ -9,10 +9,10 @@ tags:
 ---
 ## New Levels
 
-New to the 2025-2026 season, Michigan is moving from a structure with 3 age-based tiers to a structure with two tiers based on amount of material.
+New to the 2025-2026 season, Michigan moved from a structure with 3 age-based tiers to a structure with two tiers based on amount of material.
 
-- **Standard** - This level includes the full set of Material (Acts 1-14, Galatians, Colossians, and Philemon), is open to quizzers from 6<sup>th</sup> - 12<sup>th</sup> grade. This is the same material and ages that qualify for participation at Nationals.
-- **Casual** - This is a new level that is targeted at younger quizzers (4<sup>th</sup> - 5<sup>th</sup> grade) and those that are less competitive, unable to dedicate the time to study the large set of material, etc.. All the rules are the same, but the material is approximately one third of Standard (Acts 1-9).
+- **Standard** - This level includes the full set of Material (Acts 15-28, Ephesians, and Philippians), is open to quizzers from 6<sup>th</sup> - 12<sup>th</sup> grade. This is the same material and ages that qualify for participation at Nationals.
+- **Casual** - This is a new level that is targeted at younger quizzers (3<sup>rd</sup> - 5<sup>th</sup> grade) and those that are less competitive, unable to dedicate the time to study the large set of material, etc.. All the rules are the same, but the material is approximately one third of Standard (excerpts of Acts 15 - 28, the book of Philippians, and Ephesians 6:10-20).
 
 
 ## Why?
@@ -21,7 +21,7 @@ For less experienced quizzers, it's pretty easy to fall behind on the material i
 
 ## Can I move between the tiers?
 
-Yes! The first month, everyone will be doing Acts chapter 1 (but Standard will also be doing chapters 2, 3, and 4). We encourage everyone to try Standard -- the team that defines the material list is very dedicated and strives to make sure that the Ministry selects an achievable list of material. However, if you're just getting started or your team finds that this amount of material is more than you can commit to, you're welcome to switch to Casual at any point throughout the year.
+Yes! The first month, everyone will be covering the same set of chapers (Acts 15 - 17) but Standard will also be doing doing the entirety of the chapters while Casual will be doing excerpts of those chapters. We encourage everyone to try Standard -- the team that defines the material list is very dedicated and strives to make sure that the Ministry selects an achievable list of material. However, if you're just getting started or your team finds that this amount of material is more than you can commit to, you're welcome to switch to Casual at any point throughout the year.
 
 On the other hand, if you start in Casual and find that you're doing really well and are ready for another challenge, you can always move up to Standard. Each month, the questions are primarily (~70%) from that month's material, so you if you moved up a tier, you wouldn't immediately need to go back and learn the material that you had missed. You could just focus on the new material and backfill the rest over future months.
 
