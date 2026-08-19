@@ -12,7 +12,7 @@ tags:
 #### Material
 This quiz will cover the material 
  - **Standard**: Acts 15-17.
- - **Casual**: Excerpts of Acts 15-17 (with a focus on Acts 15:5-11, 15:13, 15:19-22, 16:1-5, 12-34, 17:24-27, 17:30-31).
+ - **Casual**: Excerpts of Acts 15-17 (with a focus on Acts 15:5-11, 15:13, 15:19-22, 16:1-5, 16:12-34, 17:24-31).
 
 #### Location
 Ogemaw Hills Free Methodist Church<br>
@@ -109,7 +109,7 @@ This quiz will be just for Standard quizzers and will cover all of the material 
 #### Location
 TBD
 #### Material
-This quiz will be just for Casual quizzers and will cover Acts 1-14 (with a focus on 11:1 - 14:28).
+This quiz will be just for Casual quizzers and will cover the same material as April (focus on the entire material selection).
 
 
 ## June 28 - July 2, 2027 (Nationals)
