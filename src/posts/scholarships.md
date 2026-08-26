@@ -2,7 +2,7 @@
 title: Scholarships
 description: The list of scholarships currently offered for participation
 author: Matthew D
-date: 2024-09-01T02:28:58.349Z
+date: 2026-08-01T02:28:58.349Z
 tags:
   - left
   - center
@@ -14,7 +14,7 @@ tags:
 
 We have a number of colleges that offer scholarships for quizzers that fully participate in a season. ("Full participation" is participating in 5 of the 8 conference quizzes and attending Nationals.)
 
-These number are from the 2025 - 2025 quiz season. Renewals, new partners, etc. are currently being worked through for the 2025 - 2026 season.
+These number are from the 2025 - 2026 quiz season. Renewals, new partners, etc. are currently being worked through for the 2026 - 2027 season.
 
 ## [Corban University](https://www.corban.edu/)
 $2,000/year
@@ -59,4 +59,4 @@ $3,400/year x up to 5 quizzing years ... $17,000/year
 ## [Roberts Wesleyan University](https://roberts.edu)
 $1,000/year for up to four years
 
-You can find more details [on the scholarship tab here](https://ezcard.com/fmbq620).
+You can find more details [on the scholarship page here](https://fmquizzing.org/information/scholarships).

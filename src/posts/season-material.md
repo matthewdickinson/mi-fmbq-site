@@ -2,7 +2,7 @@
 title: Season Material
 description: Where to find material for this year
 author: Matthew D
-date: 2025-07-21T23:03:14.999Z
+date: 2026-08-21T23:03:14.999Z
 tags:
   - blog
   - General
