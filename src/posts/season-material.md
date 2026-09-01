@@ -19,4 +19,4 @@ New to the 2025-2026 season, Michigan moved from a structure with 3 age-based ti
 <br>
 You can find digital copies of the Casual material as either <a href="/static/files/fmbq-mi-2026-2027.casual.html" target="_blank">HTML</a>, <a href="/static/files/fmbq-mi-2026-2027.casual.docx" target="_blank">Doc</a>, or <a href="/static/files/fmbq-mi-2026-2027.casual.pdf" target="_blank">PDF</a> files. 
 <br>
-Helpful study materials include a <a href="/static/files/fmbq-mi-2026-2027.casual.unique-words-list.txt" target="_blank">unique word list</a> and a <a href="/static/files/fmbq-mi-2026-2027.casual.word-pair-list.txt" target="_blank">word pair list</a>.
+Helpful study materials include a <a href="/static/files/fmbq-mi-2026-2027.quote-sheet.casual.pdf" target="_blank">quote list</a>, a <a href="/static/files/fmbq-mi-2026-2027.casual.unique-words-list.txt" target="_blank">unique word list</a>, and a <a href="/static/files/fmbq-mi-2026-2027.casual.word-pair-list.txt" target="_blank">word pair list</a>.
