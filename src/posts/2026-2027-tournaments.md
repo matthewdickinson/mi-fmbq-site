@@ -71,7 +71,7 @@ Waypoint Church<br>
 8400 Dixie Highway Clarkston, MI 48348
 
 
-## March 14th, 2027
+## March 13th, 2027
 
 #### Material
 This quiz will cover the material 
