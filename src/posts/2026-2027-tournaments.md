@@ -41,8 +41,8 @@ This quiz will cover the material
  - **Casual**: Excerpts of Acts 15-22 (with a focus on Acts 21:8-15, 21:27-29, 21:34, 21:40, 22:1-21)
 
 #### Location
-Hillsdale Free Methodist Church<br>
-150 Union St, Hillsdale, MI 49242
+Hope Church<br>
+200 N Fremont St, Coldwater, MI 49036
 
 
 ## January 9th, 2027
@@ -81,7 +81,8 @@ This quiz will cover the material
 
 
 #### Location
-**TBD**
+New Covenant Church<br>
+13176 N Linden Rd, Clio, MI 48420
 
 
 ## April 10th, 2027
