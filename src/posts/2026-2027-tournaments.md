@@ -28,7 +28,8 @@ This quiz will cover the material
  - **Casual**: Excerpts of Acts 15-20 (with a focus on Acts 18:1-3, 18:9-11, 18:24-28, 19:1-12, 20:17-38).
 
 #### Location
-**TBD**
+Hope Church<br>
+200 N Fremont St, Coldwater, MI 49036
 
 
 ## December 12th, 2026
