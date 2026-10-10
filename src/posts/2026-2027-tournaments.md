@@ -102,8 +102,8 @@ The Arbor Free Methodist Church<br>
 
 ### Regional Quiz
 #### Location
-West Morris Church<br>
-2302 W Morris St, Indianapolis, IN 46221
+John Wesley Free Methodist Church<br>
+5900 W 46th St, Indianapolis, IN 46254
 #### Material
 This quiz will be just for Standard quizzers and will cover all of the material for the year: Acts 15-28, Ephesians, and Philippians.
 
